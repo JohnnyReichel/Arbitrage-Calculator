@@ -11,4 +11,4 @@ Arbitrage calculator provides hedge bet, payout, and profit information, activel
 
 # Contact Info:
 
-- Email: reich597@umn.edu
+- Email: johnreichel.eth@gmail.com
